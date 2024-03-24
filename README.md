@@ -10,7 +10,7 @@
     - .NET API <br>
     - Angular <br>
     - SSMS
-- [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Face recognition + Car Plate recognition <br>
+- [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Police Soft (Face recognition + Car Plate recognition) <br>
   Want to use: <br>
     - Python
     - C#

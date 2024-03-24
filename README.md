@@ -13,6 +13,10 @@
 - [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Face recognition + Car Plate recognition <br>
   Want to use: <br>
     - Python
+    - C#
+    - .NET API
+    - Flutter
+    - Dart
 - [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Sports Site (...) <br>
   Want to use: <br>
     - .net API <br>

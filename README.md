@@ -19,7 +19,7 @@
     - Dart
 - [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Sports Site (...) <br>
   Want to use: <br>
-    - .net API <br>
+    - .NET API <br>
     - React Native <br>
     - Firebase
 

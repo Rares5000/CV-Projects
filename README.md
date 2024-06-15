@@ -12,7 +12,7 @@
     - SSMS
 - [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)](#) Police Soft (Face recognition + Car Plate recognition) <br>
   Used: <br>
-    - .NET API
+    - .NET Core
     - Flutter
     - Tensorflow
     - Azure Portal
@@ -23,8 +23,9 @@
     - Dart
 - [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Sports Site (...) <br>
   Want to use: <br>
-    - .NET API <br>
-    - React Native <br>
+    - PHP <br>
+    - Laravel <br>
+    - React <br>
     - Firebase
 
 [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)](#) is for finished projects

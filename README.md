@@ -10,12 +10,16 @@
     - .NET API <br>
     - Angular <br>
     - SSMS
-- [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Police Soft (Face recognition + Car Plate recognition) <br>
-  Want to use: <br>
-    - Python
-    - C#
+- [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)](#) Police Soft (Face recognition + Car Plate recognition) <br>
+  Used: <br>
     - .NET API
     - Flutter
+    - Tensorflow
+    - Azure Portal
+    - Google Vision AI
+    - Android Studio
+    - Python
+    - C#
     - Dart
 - [![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)](#) Sports Site (...) <br>
   Want to use: <br>
